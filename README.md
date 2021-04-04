@@ -4,9 +4,11 @@ Checks weather the SPF record of a domain exists or not. It basicaly uses [SPF Q
 
 **Usage :**   
 
+Install requirements :  
+
 ```shell  
-$ SPFCheck.py -d targetdomain.com
-``` 
+$ pip3 install -r requirements.txt
+```   
 
 Example :  
 
